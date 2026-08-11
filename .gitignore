@@ -1,0 +1,13 @@
+# Токены и секреты
+.env
+config.py
+
+# База данных
+*.db
+*.sqlite3
+
+# Кэш Python
+__pycache__/
+*.pyc
+.venv/
+env/
